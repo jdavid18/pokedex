@@ -3,7 +3,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/jeffjiang13/pokedex">
+  <a href="https://github.com/albertboyd/pokedex">
     <img src="src/assets/pokeball.png" alt="pokedex" width="100" height="100">
   </a>
 
