@@ -16,7 +16,7 @@ function About() {
         <a href="https://albert-boyd.vercel.app/">
           <FaBookOpen />
         </a>
-        <a href="https://www.linkedin.com/in/albertboyd">
+        <a href="https://www.linkedin.com/in/albert-james-boyd">
           <FaLinkedin />
         </a>
       </div>
